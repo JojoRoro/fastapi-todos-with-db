@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'johnyrocket-db'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E17371094904EAAAEEA786105CF78B4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CBD93A95E48C48C4B3FF7524E888BBE2 }}
